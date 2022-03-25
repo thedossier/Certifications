@@ -1,0 +1,66 @@
+ Data Validation for Clean Data Entry
+
+    The importance of clean data entry
+    Test your knowledge
+    Fix the errors
+    Contribute to the data set
+    Create dropdowns from lists
+    Mitigating campaign name errors
+    List from a range
+    List of items
+    Validations using cell criteria and checkboxes
+    Text validation
+    Check the checkboxes
+    Putting it all together
+
+ Regular Expressions
+
+    What are regular expressions?
+    Using regular expressions
+    Writing regular expressions
+    Test a string using REGEXMATCH
+    Filter table using REGEXMATCH
+    Aggregate campaign cost using REGEXMATCH
+    Aggregate ad group cost-per-click using REGEXMATCH
+    Modify a string using REGEXEXTRACT and REGEXREPLACE
+    Rename brand campaigns using REGEXREPLACE()
+    Rename all ad groups using REGEXREPLACE()
+    Extract brand campaign names using REGEXEXTRACT()
+    Create campaign IDs using REGEXEXTRACT()
+    Cleaning Campaign Names
+    Modify the campaign ID to include source
+    How much did each source spend?
+    Sum up campaigns with RegEx
+
+ Visualize the Data with Charts
+
+    Analyzing paid-search trends with line & area charts
+    Analyze cost data with a stacked area chart
+    Plotting campaign click-through-rates with a line chart
+    Visualizing ad group performance with column & bar charts
+    Using a bar chart to visualize total ad group spend
+    Assessing campaign performance with a column chart
+    Ad group overview with 100% stacked bar chart
+    Evaluating campaigns with pie & scatter plots
+    Assessing campaign goal completions with a pie chart
+    Understanding click through rate with a scatter plot
+    Visualizing goal completions with a bubble chart
+    Build a digital marketing dashboard
+    Visualizing impressions with a doughnut chart
+    Using a bubble chart to determine the better source
+    Source performance using a standard stacked bar chart
+
+ Build a Paid Search Campaign Dashboard
+
+    Preparing the data
+    Dropdowns for source and campaign name
+    Create a filtered table
+    Prep for charts with a regex driven table
+    Visualize the data
+    Ad group impression share with a doughnut chart
+    Ad group metrics with a bar chart
+    Campaign and ad group analysis with a bubble chart
+    Putting it all together
+    Who are the dashboards for?
+    Add a campaign dropdown filter
+    Apply dynamic filter to dashboard
