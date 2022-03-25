@@ -1,0 +1,66 @@
+ We'll take the CASE
+
+    We'll take the CASE
+    Basic CASE statements
+    CASE statements comparing column values
+    CASE statements comparing two column values part 2
+    In CASE things get more complex
+    In CASE of rivalry
+    Filtering your CASE statement
+    CASE WHEN with aggregate functions
+    COUNT using CASE WHEN
+    COUNT and CASE WHEN with multiple conditions
+    Calculating percent with CASE and AVG
+
+ Short and Simple Subqueries
+
+    WHERE are the Subqueries?
+    Filtering using scalar subqueries
+    Filtering using a subquery with a list
+    Filtering with more complex subquery conditions
+    Subqueries in FROM
+    Joining Subqueries in FROM
+    Building on Subqueries in FROM
+    Subqueries in SELECT
+    Add a subquery to the SELECT clause
+    Subqueries in Select for Calculations
+    Subqueries everywhere! And best practices!
+    ALL the subqueries EVERYWHERE
+    Add a subquery in FROM
+    Add a subquery in SELECT
+
+ Correlated Queries, Nested Queries, and Common Table Expressions
+
+    Correlated subqueries
+    Basic Correlated Subqueries
+    Correlated subquery with multiple conditions
+    Nested subqueries
+    Nested simple subqueries
+    Nest a subquery in FROM
+    Common Table Expressions
+    Clean up with CTEs
+    Organizing with CTEs
+    CTEs with nested subqueries
+    Deciding on techniques to use
+    Get team names with a subquery
+    Get team names with correlated subqueries
+    Get team names with CTEs
+    Which technique to use?
+
+ Window Functions
+
+    It's OVER
+    The match is OVER
+    What's OVER here?
+    Flip OVER your results
+    OVER with a PARTITION
+    PARTITION BY a column
+    PARTITION BY multiple columns
+    Sliding windows
+    Slide to the left
+    Slide to the right
+    Bringing it all together
+    Setting up the home team CTE
+    Setting up the away team CTE
+    Putting the CTEs together
+    Add a window function
