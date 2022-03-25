@@ -1,0 +1,58 @@
+What's in a cell?
+
+    Data types for data science
+    What IS*() the data type?
+    Checking rarer data types
+    Finding missing data
+    Dteectnig bdaly tpyed dtaa
+    Convert or die!
+    Making numbers while the sun shines
+    How the 104% live
+    Converting logical values to numbers
+    Preaching to the CONVERT()ed
+
+ Working with numbers
+
+    Common data transformations
+    Logarithmic transformations
+    Exponential transformations
+    Square root transformations
+    Rounding and formatting numbers
+    Round and round
+    From floor to ceiling
+    Rounding negative numbers
+    Generating random numbers
+    Generating uniform random numbers
+    Generating random numbers from other distributions
+
+ Logic & Errors
+
+    Logical operations
+    Logical operations are hard... NOT!
+    AND now for something completely different
+    Yea OR nay
+    Flow control
+    IF only
+    Lots of IFS
+    SWITCH it on!
+    Blanks, missing values, & errors
+    Blankety blank
+    Going missing
+    Errors and omissions
+    What's the problem?
+
+ Positional Matching
+
+    Cell addresses
+    Working with cell addresses
+    From addresses to values
+    Finding nearby cells with offsets
+    Local addresses
+    Lookups & matching
+    A VLOOKUP refresher
+    Sorted!
+    Matching values
+    Bringing it all together
+    Advanced filtering
+    Conditional summary statistics
+    Simple imputation
