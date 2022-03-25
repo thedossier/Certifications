@@ -1,0 +1,56 @@
+ Introduction to window functions
+
+    Introduction
+    Window functions vs GROUP BY
+    Numbering rows
+    Numbering Olympic games in ascending order
+    ORDER BY
+    Numbering Olympic games in descending order
+    Numbering Olympic athletes by medals earned
+    Reigning weightlifting champions
+    PARTITION BY
+    Reigning champions by gender
+    Reigning champions by gender and event
+    Row numbers with partitioning
+
+ Fetching, ranking, and paging
+
+    Fetching
+    Future gold medalists
+    First athlete by name
+    Last country by name
+    Ranking
+    Ranking athletes by medals earned
+    Ranking athletes from multiple countries
+    DENSE_RANK's output
+    Paging
+    Paging events
+    Top, middle, and bottom thirds
+
+ Aggregate window functions and frames
+
+    Aggregate window functions
+    Running totals of athlete medals
+    Maximum country medals by year
+    Minimum country medals by year
+    Frames
+    Number of rows in a frame
+    Moving maximum of Scandinavian athletes' medals
+    Moving maximum of Chinese athletes' medals
+    Moving averages and totals
+    Moving average's frame
+    Moving average of Russian medals
+    Moving total of countries' medals
+
+ Beyond window functions
+
+    Pivoting
+    A basic pivot
+    Pivoting with ranking
+    ROLLUP and CUBE
+    Country-level subtotals
+    All group-level subtotals
+    A survey of useful functions
+    Cleaning up results
+    Summarizing results
+
