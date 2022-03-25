@@ -1,0 +1,64 @@
+ Introduction to Pivot Tables 
+
+    Introduction to pivot tables
+    Create a pivot table
+    Create a pivot table pt 2
+    Create a pivot table pt 3
+    Pivot table rows and columns
+    Select rows
+    Select columns
+    Rearrange rows and columns
+    Pivot table values
+    Selecting values
+    Selecting multiple values
+    Pivot table basics
+
+ Behind the Scenes of the Pivot Table
+
+    How a pivot table works
+    What does a pivot table do?
+    Analyze the pivot table
+    Analyze the pivot table pt 2
+    Using filters in a pivot table
+    Selecting filters
+    Filtering by using a string
+    Filtering on min/max values
+    Filtering on values
+    Putting all the pieces together
+    Building a complete pivot table
+    Building a complete pivot table pt 2
+    Building a complete pivot table pt 3
+
+ Advanced Options
+
+    Changing the calculation of values
+    Counting text values
+    Counting numerical values
+    Minimum and maximum values
+    Average and median
+    Calculated fields
+    What can be done with a calculated field
+    Create a calculated field
+    Create a calculated field pt 2
+    Create a calculated field pt 3
+    Data as percentages, drilling down, & grouping
+    Percentage of grand total
+    Percentage of rows
+    What does drilling down do?
+    Grouping rows
+
+ Editing Data and Troubleshooting
+
+    Adding or Changing Data
+    Changing the source data
+    Correct the dataset
+    Correcting Inconsistent Source Data
+    Find and correct the error in the data
+    Adding data
+    Troubleshooting and Errors
+    Finding Missing Data in a Dataset
+    Find missing data within this dataset
+    Best Practices and Recommendations
+    Types of Categories
+    Select the Measurements
+    Alternatives to Pivot Tables
