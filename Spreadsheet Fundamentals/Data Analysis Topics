@@ -1,0 +1,34 @@
+ 
+ Predefined functions
+
+    First function - ROUND
+    Function composition - SQRT
+    Functions and ranges - MIN, MAX
+    Selecting ranges - SUM, AVERAGE, MEDIAN
+    Multiple arguments - RANK
+    Even more arguments - RANK
+    String manipulation - LEFT, RIGHT
+    String information - LEN, SEARCH
+    Combining strings - CONCATENATE
+    Date functions - WEEKDAY
+    Comparing dates
+    Combining functions
+    
+    
+ Conditional functions and lookups
+
+    Performance statistics
+    Flow control - IF
+    Nested logical functions - IF
+    Combining logical values - OR, WEEKDAY
+    Conditional counting - COUNTIF
+    Conditional aggregation - COUNTIF
+    Conditional sum - SUMIF
+    Conditional average - AVERAGEIF
+    Advanced conditions - AVERAGEIF
+    Filters - FILTER, DATEVALUE, MEDIAN
+    Grades in class
+    Automating the lookup - VLOOKUP
+    More about lookup - VLOOKUP
+    Horizontal lookup - HLOOKUP
+    Weighted average - SUMPRODUCT, HLOOKUP
