@@ -1,0 +1,64 @@
+ Introduction to joins
+
+    Introduction to INNER JOIN
+    Inner join
+    Inner join (2)
+    Inner join (3)
+    INNER JOIN via USING
+    Review inner join using on
+    Inner join with using
+    Self-ish joins, just in CASE
+    Self-join
+    Case when and then
+    Inner challenge
+
+ Outer joins and cross joins
+
+    LEFT and RIGHT JOINs
+    Left Join
+    Left join (2)
+    Left join (3)
+    Right join
+    FULL JOINs
+    Full join
+    Full join (2)
+    Full join (3)
+    Review outer joins
+    CROSSing the rubicon
+    A table of two cities
+    Outer challenge
+
+ Set theory clauses
+
+    State of the UNION
+    Union
+    Union (2)
+    Union all
+    INTERSECTional data science
+    Intersect
+    Intersect (2)
+    Review union and intersect
+    EXCEPTional
+    Except
+    Except (2)
+    Semi-joins and Anti-joins
+    Semi-join
+    Relating semi-join to a tweaked inner join
+    Diagnosing problems using anti-join
+    Set theory challenge
+
+ Subqueries
+
+    Subqueries inside WHERE and SELECT clauses
+    Subquery inside where
+    Subquery inside where (2)
+    Subquery inside select
+    Subquery inside FROM clause
+    Subquery inside from
+    Advanced subquery
+    Subquery challenge
+    Subquery review
+    Course review
+    Final challenge
+    Final challenge (2)
+    Final challenge (3)
