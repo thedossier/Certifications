@@ -1,0 +1,68 @@
+ Business Intelligence and Using Dashboards
+
+    Using Sheets as a Business Intelligence platform
+    Using data validation controls view medal tallies
+    Using data validation controls to pick from a list
+    Using conditional formatting on a dashboard
+    Setting up a basic dashboard
+    Creating a column chart from your data
+    Setting up your worksheet with formulas of reference
+    Charting the medal statistics
+    Setting up your data
+    Getting started
+    Format dates and numbers
+
+ Efficient Column Charts
+
+    Efficient column charts
+    Creating a column chart for your dashboard
+    Format chart, axis titles and series
+    Axis, gridlines, and changing the plot
+    Removing a series
+    Changing the plotted range
+    Named ranges
+    Using named ranges
+    Summing using a named range
+    Averaging using a named range
+
+ Dashboard Controls
+
+    Data validation
+    Setting up your data
+    Format numbers within your dataset
+    Using VLOOKUP with data validation
+    Creating and testing the data validation
+    Adding the calculation
+    Creating the line plot
+    Formatting your line chart
+    Chart titles, axis, font, gridlines
+    Other formatting options
+
+ Other Charts for Your Dashboard
+
+    Histograms
+    Inserting the VLOOKUP
+    Creating a histogram on the dashboard
+    Formatting your histogram
+    Candlestick charts
+    Changing your dates to text
+    Creating the candlestick for the dashboard
+    Formatting the candlestick
+    Scatter charts
+    Creating a scatter chart
+    Formatting your scatter chart
+    Sparkline charts within a cell
+    Sparklines
+    Changing the color of your sparkline
+    The column sparkline
+
+ Conditional Formatting
+
+    Using conditional formatting
+    Creating a simple rule to highlight cells
+    Highlighting cells between a range
+    Using formulas and tidying up the dashboard
+    Using a custom formula to highlight a row
+    Highlighting duplicates
+    Using wildcard characters to highlight dates
+    Change a condition in a format
